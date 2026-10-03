@@ -4,7 +4,7 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="APP CÔNG CỤ TÍNH TIỀN GỬI TIẾT KIỆM_LÊ THỊ MINH ANH",
     page_icon="💰",
     layout="centered"
 )
